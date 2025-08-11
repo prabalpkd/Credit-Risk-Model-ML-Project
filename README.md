@@ -114,7 +114,7 @@ Trained multiple models:
 
 ## 🖥️ Streamlit App Interface
 
-![App Screenshot](Screenshot%202025-08-10%20234147.png)
+![App Screenshot](https://github.com/prabalpkd/Credit-Risk-Model-ML-Project/blob/main/Real-Time-Prediction-Interface.png)
 
 **Inputs:**
 - Age, Income, Loan Amount, Loan Tenure
