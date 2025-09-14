@@ -5,6 +5,18 @@ It combines **data processing, feature engineering, machine learning, and a Stre
 
 ---
 
+## 📸 Live Demo
+
+Check out the live Streamlit app here: [Prudent Partners: Credit Risk Modelling](https://credit-risk-model-ml-project-02.streamlit.app/)
+
+---
+
+## 🖥️ Streamlit App Interface
+
+![App Screenshot](https://github.com/prabalpkd/Credit-Risk-Model-ML-Project/blob/main/Real-Time-Prediction-Interface.png)
+
+---
+
 ## 📌 Project Objective
 To design and deploy a **machine learning model** that:
 - Predicts **default probability** for a borrower.
@@ -111,10 +123,6 @@ Trained multiple models:
 - Designed clean UI with easy-to-read results.
 
 ---
-
-## 🖥️ Streamlit App Interface
-
-![App Screenshot](https://github.com/prabalpkd/Credit-Risk-Model-ML-Project/blob/main/Real-Time-Prediction-Interface.png)
 
 **Inputs:**
 - Age, Income, Loan Amount, Loan Tenure
